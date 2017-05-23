@@ -8,6 +8,7 @@ logo:               'assets/img/krittika-logo.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
+github: https://github.com/krittikaclub/
 
 baseurl: https://krittikaclub.github.io/1/
 url: https://krittikaclub.github.io/1/
